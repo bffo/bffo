@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about bioinformatics.ca
+- 💬 Ask me about [bioinformatics.ca](bioinformatics.ca)
 - 📫 How to reach me: email me [here](mailto:francis.ouellette@gmail.com)
 - 😄 Pronouns: He/him
 - Projects I work with:<BR>
