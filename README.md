@@ -4,9 +4,11 @@
 - 📫 How to reach me: email me [here](mailto:francis.ouellette@gmail.com)
 - 😄 Pronouns: He/him
 - Projects I work with:<BR>
+  [bioinformatics.ca](bioinformatics.ca)<BR>
   [ISMB in Montréal for 2024](https://www.iscb.org/ismb20240)<BR>
   [PLOS CB Education collection](http://collections.plos.org/compbiol-education)<BR>
   [OUP Database](http://mc.manuscriptcentral.com/database)<BR>
+  
   
    
 
